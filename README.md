@@ -1,7 +1,9 @@
 # Sunny Side Up
 
-A single-screen breakfast food truck poster built with plain HTML, CSS, and JavaScript.
+A responsive scrolling breakfast food truck website built with plain HTML, CSS, and JavaScript. Open index.html in a browser; no dependencies or build step required.
 
-Open `index.html` in a browser. No dependencies or build step are required.
+## Images
 
-Edit menu items and prices in `index.html`, colors and typography in `style.css`, and screen fitting in `app.js`.
+The Newport Beach bodysurfing photo is by Don Ramey Logan, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Body_Surfing_The_Wedge_Newport_Beach_CA_photo_Don_Ramey_Logan.jpg . Resized and cropped in the page layout. License: https://creativecommons.org/licenses/by-sa/4.0/
+
+The breakfast spread is AI-generated illustrative imagery, not a photograph of actual restaurant dishes.
