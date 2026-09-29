@@ -2,3 +2,5 @@
 
 /* Keep the full plate arrangement visible on every screen. */
 .food-section img,.surf-photo img{aspect-ratio:auto;height:auto}
+
+.meal-deal{display:flex;align-items:center;justify-content:center;gap:32px;padding:20px 26px;background:#ffcf32;border:3px solid #174b60;border-radius:14px;box-shadow:5px 5px 0 #247989;color:#173e50}.meal-deal span{font-size:clamp(24px,3vw,36px);font-weight:900;letter-spacing:2px}.meal-deal strong{font-size:clamp(36px,5vw,58px);line-height:1.1}.beach-section .eyebrow{font-size:16px;font-weight:800;color:#174b60;letter-spacing:2px}@media(max-width:480px){.meal-deal{gap:18px;padding:18px 12px}.meal-deal span{font-size:23px;letter-spacing:1px}.meal-deal strong{font-size:38px}}
